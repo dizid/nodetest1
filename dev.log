@@ -1,5 +1,7 @@
 node server moeten 3 dingen doen:
 
+OPENAI_API_KEY=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
+
 1 listen for API calls from Vue app op http://localhost:3000/openai 
 2 GET data from openAI (zoiets: app.get("/openai", (req, res, next) => { etcetc
 
