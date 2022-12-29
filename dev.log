@@ -3,7 +3,8 @@ node server moeten 3 dingen doen:
 1 listen for API calls from Vue app op http://localhost:3000/openai 
 2 GET data from openAI (zoiets: app.get("/openai", (req, res, next) => { etcetc
 
-
+TODO
+Error handling (try catch) bijvoorbeeld als er geen internet is of verkeerde api key
 
 
 Ask openAI
